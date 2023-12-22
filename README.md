@@ -12,3 +12,25 @@ O **Fincheck** é uma aplicação voltada para o controle de finanças. Nele voc
 
 https://github.com/PetrusBorges/fincheck/assets/105453766/c9b904c0-329f-4fa1-8f1e-ecdb2a6a97a0
 
+## Stack utilizada
+
+**Front End:**
+<ul id="frontend-stack">
+	<li>React</li>
+	<li>Tailwind</li>
+	<li>Vite</li>
+	<li>Radix-ui</li>
+	<li>Zod</li>
+	<li>React Hook Form</li>
+</ul>
+
+**Back End:**
+<ul id="backend-stack">
+	<li>Node.js</li>
+	<li>NestJs</li>
+	<li>Prisma</li>
+	<li>BCryptjs</li>
+	<li>Docker</li>
+	<li>Postgres</li>
+	<li>TypeScript</li>
+</ul>
