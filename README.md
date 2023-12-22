@@ -9,3 +9,6 @@
 
 O **Fincheck** é uma aplicação voltada para o controle de finanças. Nele você pode gerenciar os seus gastos de uma forma otimizada, através do controle de suas contas bancárias, categorias de gastos e transações. Esse projeto foi desenvolvido utilizando algumas das stacks mais novas do mercado.
 </div>
+
+https://github.com/PetrusBorges/fincheck/assets/105453766/c9b904c0-329f-4fa1-8f1e-ecdb2a6a97a0
+
